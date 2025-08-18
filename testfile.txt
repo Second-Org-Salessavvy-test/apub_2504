@@ -1,0 +1,12 @@
+This is a test file committed to the branch 'testingblocker1'.
+
+Purpose:
+• Validate branch creation workflow
+• Demonstrate file commit functionality
+
+SQL styled table:
++-----------------+------------------+
+| Branch Name     | testingblocker1  |
+| Base Branch     | main             |
+| Repository      | Second-Org-Salessavvy-test/apub_2504 |
++-----------------+------------------+
