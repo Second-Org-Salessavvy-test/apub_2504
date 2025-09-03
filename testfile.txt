@@ -1,0 +1,9 @@
+Files allowed to use
+
+This is a test file for branch 'testing39011' in the repository 'Second-Org-Salessavvy-test/apub_2504'.
+The branch was created based on the 'main' branch as requested.
+
+• Purpose: To verify branch creation and initial file commit functionality.
+• Repository: Second-Org-Salessavvy-test/apub_2504
+• Base Branch: main
+• New Branch: testing39011
