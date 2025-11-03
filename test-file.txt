@@ -1,0 +1,7 @@
+# Test File
+
+This is a test file committed to the branch 'automation-branch-y2tz8eby3ybc' in the repository 'Second-Org-Salessavvy-test/apub_2504'.
+
+Purpose:
+• To verify branch creation and commit functionality.
+• To facilitate the process of raising a pull request to the main branch.
