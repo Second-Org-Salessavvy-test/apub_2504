@@ -1,0 +1,6 @@
+# Test File
+
+This is a test file created as part of the process to raise a pull request from the automation-branch-sbzii2tyzmpo branch to the main branch in the Second-Org-Salessavvy-test/apub_2504 repository.
+
+• Branch: automation-branch-sbzii2tyzmpo
+• Purpose: Testing automation and PR workflow
