@@ -1,0 +1,7 @@
+This is a test file created for automation verification.
+
+Purpose:
+• Ensure branch creation and commit functionality.
+• Prepare for merge via pull request into the main branch.
+
+Status: Test content only.
