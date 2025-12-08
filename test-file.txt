@@ -1,0 +1,6 @@
+This is a test file committed to the branch 'main-test-branch' in the repository 'Second-Org-Salessavvy-test/apub_2504'.
+
+Details:
+• Base branch used to create this branch: main
+• Repository: Second-Org-Salessavvy-test/apub_2504
+• Purpose: Validate commit workflow by adding a basic test file.
