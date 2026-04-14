@@ -5,6 +5,7 @@ def print_fibonacci(n):
 
     for i in range(n):
         print(a, end=" ")
+        print(a, end="ff ")
         a, b = b, a + b
     print()
 
